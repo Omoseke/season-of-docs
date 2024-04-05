@@ -1,1 +1,1 @@
-Biliki Olaleye | [Portfolio](https://omoseke.github.io/Technical-Writer-Portolio) | Skilled in writing tutorials and documentation
+Biliki Olaleye | [Portfolio](https://omoseke.github.io/Technical-Writer-Portolio) | Skilled in creating comprehensive tutorials and documentation for cloud-based solutions, software engineering concepts eg API documentation, version control etc.
